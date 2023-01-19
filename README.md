@@ -1,0 +1,1 @@
+# k8s-random-partnership
